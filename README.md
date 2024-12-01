@@ -1,6 +1,6 @@
 # Quake 1 Assets For Modern Formats
 
-###### [SirHenricus] (https://github.com/SirHenricus)
+###### [SirHenricus](https://github.com/SirHenricus)
 
 Assets from the game "Quake" by id Software converted to modern formats (e.g. obj, dae, png)
 
