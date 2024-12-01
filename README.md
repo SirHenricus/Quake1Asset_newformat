@@ -9,18 +9,18 @@ I was planning on using these assets for a project I'm working on, but I am maki
 
 These assets were converted through a program called [Noesis](https://richwhitehouse.com/index.php?content=inc_projects.php&showproject=91)
 
-model format
+#### model format
 .mdl ---> .obj
 
-map format
+#### map format
 .bsp ---> .obj
 
-model texture format
+#### model texture format
 .pcx (inside mdl file) ---> .png
 
 sound files are unconverted (.wav)
 
-model animation format
+#### model animation format
 ??? ---> .dae/.anm
 (as of writing this, I have not been able to export animations as Noesis is only able to properly export 
 skeletal animations instead of the vertex aniamtions that Quake mdls use)
