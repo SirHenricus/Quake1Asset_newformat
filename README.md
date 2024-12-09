@@ -6,6 +6,8 @@
 
 Assets from the game "Quake" by id Software converted to modern formats (e.g. obj, dae, png)
 
+Hexen II assets is also included as they use the same game engine.
+
 I was planning on using these assets for a project I'm working on, but I am making them public as other people might want to use them.
 
 
