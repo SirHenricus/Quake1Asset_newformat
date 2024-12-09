@@ -1,4 +1,6 @@
-# Quake 1 Assets For Modern Formats
+# Quake 1/Hexen 2 Assets For Modern Formats
+
+###### (WORK IN PROGRESS)
 
 ###### [SirHenricus](https://github.com/SirHenricus)
 
@@ -26,6 +28,12 @@ sound files are unconverted (.wav)
 ??? ---> .dae/.anm
 (as of writing this, I have not been able to export animations as Noesis is only able to properly export 
 skeletal animations instead of the vertex aniamtions that Quake mdls use)
+
+
+## Changelog 
+
+- 12/9/24: Changing project name to "Quake 1/Hexen 2 for Modern Formats" leaving repository name the same.
+
 
 
 
