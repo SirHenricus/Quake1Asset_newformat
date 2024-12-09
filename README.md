@@ -32,7 +32,7 @@ skeletal animations instead of the vertex aniamtions that Quake mdls use)
 
 ## Changelog 
 
-- 12/9/24: Changing project name to "Quake 1/Hexen 2 for Modern Formats" leaving repository name the same.
+- 12/9/24: Changing project name to "Quake 1/Hexen 2 Assets for Modern Formats" leaving repository name the same.
 
 
 
